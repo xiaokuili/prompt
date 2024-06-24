@@ -25,7 +25,7 @@ Sentiment:
 2. 每个模块进行zero-shot-cot
 
 
-## 反馈，报告生成 
+## Reflexion
 ```
 do ...
 自动反馈错误并且改正
